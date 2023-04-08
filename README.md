@@ -6,10 +6,10 @@ Trade Program Optimization is the initiative project from Data and Analytic team
 <br>
 The Trade Program Optimization has the object to support the trade marketing to do the program to the right customers effectively. Moreover, Trade Marketing Team is currently quite well doing on the customer program targeting but the problem is we don’t have the standard recommendation to them to improve the trade program targeting and optimization as well. Thus Data & Analytic Team has come up an idea to assist TM to solve this out to increase the sell volume and company KPI as well. The objectives would be:
 
-•	Improve the trade program targeting effectively 
-•	Increase the sell volume and profit generate by trade program optimization model
-•	Understand the customer’s performance & behaviors
-•	Improve the master data and data model & what the need to push master data help the trade program targeting.
+<br>•	Improve the trade program targeting effectively 
+<br>•	Increase the sell volume and profit generate by trade program optimization model
+<br>•	Understand the customer’s performance & behaviors
+<br>•	Improve the master data and data model & what the need to push master data help the trade program targeting.
 
 <br> Academic/Practical Relevance: From an academic point of view, we want to develop the model to detect the customer targeting effect solely from transactional data and optimal program targeting as well. 
 
